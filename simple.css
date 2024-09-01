@@ -1,0 +1,18 @@
+label {
+  display: block;
+  margin: 3px;
+}
+
+.result {
+  display: inline-block;
+  min-width: 170px;
+  height: 20px;
+  border: 2px solid black;
+  padding-left: 10px;
+}
+
+button {
+  display: block;
+  width: 100px;
+  height: 30px;
+}
